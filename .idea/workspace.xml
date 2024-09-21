@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="558bfefa-cfbb-468c-acc7-beb4953cdf82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/dynamicprogramming/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/dynamicprogramming/SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/greedy/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/numbertheory/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/Bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/Insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sorting/Quick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/leetcode/Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/leetcode/Bit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/leetcode/BrowserHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/leetcode/GasStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/misc/leetcode/Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructures/array/Sum3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +43,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Anagrams">
+  <component name="RunManager" selected="Application.Sum3">
     <configuration name="Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="misc.leetcode.Anagrams" />
       <module name="DSA" />
@@ -110,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructures.array.Sum3" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="algorithms.dynamicprogramming.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.dynamicprogramming.Main" />
       <module name="DSA" />
@@ -123,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="datastructures.linkedlist.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.linkedlist.Main" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructures.linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum3" />
         <item itemvalue="Application.Anagrams" />
         <item itemvalue="Application.GasStation" />
         <item itemvalue="Application.Leetcode" />
         <item itemvalue="Application.algorithms.dynamicprogramming.Main" />
-        <item itemvalue="Application.datastructures.linkedlist.Main" />
       </list>
     </recent_temporary>
   </component>
