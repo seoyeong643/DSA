@@ -1,7 +1,7 @@
 # DSA
 Java Data Structures &amp; Algorithms
 
-This project contains various Java implementations of various data structures and algorithms.
+This project contains various Java implementations of various data structures and algorithms, a lot from leetcode.
 
 ## Project Structure
 
