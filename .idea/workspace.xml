@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="558bfefa-cfbb-468c-acc7-beb4953cdf82" name="Changes" comment="">
+    <list default="true" id="558bfefa-cfbb-468c-acc7-beb4953cdf82" name="Changes" comment="minSwaps - greedy algorithm">
       <change afterPath="$PROJECT_DIR$/src/algorithms/dynamicprogramming/IterativeComputeOpt.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/algorithms/dynamicprogramming/MComputeOpt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/greedy/Swaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/greedy/Palindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/datastructures/queue/MyCircularDeque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Swaps">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="Aveva" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="misc.interview.Aveva" />
       <module name="DSA" />
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructures.array.Sum3" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.greedy.Palindrome" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructures.array.*" />
+          <option name="PATTERN" value="algorithms.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Swaps" />
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.MyCircularDeque" />
+        <item itemvalue="Application.Swaps" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.Aveva" />
-        <item itemvalue="Application.Sum3" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +147,15 @@
       <option name="presentableId" value="Default" />
       <updated>1723598507532</updated>
     </task>
+    <task id="LOCAL-00001" summary="minSwaps - greedy algorithm">
+      <option name="closed" value="true" />
+      <created>1728448793900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728448793900</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +168,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="minSwaps - greedy algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="minSwaps - greedy algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
